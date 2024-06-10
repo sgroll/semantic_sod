@@ -1,0 +1,64 @@
+RoleId1;DisplayName1;RoleId2;DisplayName2
+37a61afa-b4fd-466d-a2c9-99f098003eb7;Finance;07b8fd0b-4313-4294-8b6f-d4b5dafbde71;Administration
+c6c18422-1cd7-4a1d-b25a-7161ccc9336a;Credit;bb51313d-903e-4ea5-8d1c-c928404c69ee;Communication
+2a77b091-73a1-4d3a-9f28-bbef44d76c82;Clothing;f9a679d3-a799-4c8f-a52e-0099c5169972;Advertising
+0e6a4b64-2c5f-4ef9-8a28-8554aede0b9f;Coaching;c7052530-4797-470f-9ece-3baf814213e8;Buying
+cd985385-6781-4cc8-828b-a13ad735aa99;Client Services;f9a679d3-a799-4c8f-a52e-0099c5169972;Advertising
+2fd61bbe-dff8-466f-83ce-f53fc9f7d42c;Human Resources;9c4cac85-9a5b-4c67-af30-0cf8095775d1;Data Warehousing
+37a61afa-b4fd-466d-a2c9-99f098003eb7;Finance;c6c18422-1cd7-4a1d-b25a-7161ccc9336a;Credit
+0e6a4b64-2c5f-4ef9-8a28-8554aede0b9f;Coaching;9c4cac85-9a5b-4c67-af30-0cf8095775d1;Data Warehousing
+37a61afa-b4fd-466d-a2c9-99f098003eb7;Finance;cd985385-6781-4cc8-828b-a13ad735aa99;Client Services
+37a61afa-b4fd-466d-a2c9-99f098003eb7;Finance;6e6e26ac-c73b-4fdd-8ab2-510b8c5b7044;Help Desk
+c6c18422-1cd7-4a1d-b25a-7161ccc9336a;Credit;0b898601-f259-409d-88ab-f1c676f5dcd2;Cinesoft
+bb51313d-903e-4ea5-8d1c-c928404c69ee;Communication;c7052530-4797-470f-9ece-3baf814213e8;Buying
+bb51313d-903e-4ea5-8d1c-c928404c69ee;Communication;9c4cac85-9a5b-4c67-af30-0cf8095775d1;Data Warehousing
+9c4cac85-9a5b-4c67-af30-0cf8095775d1;Data Warehousing;c7052530-4797-470f-9ece-3baf814213e8;Buying
+2fd61bbe-dff8-466f-83ce-f53fc9f7d42c;Human Resources;c7052530-4797-470f-9ece-3baf814213e8;Buying
+07b8fd0b-4313-4294-8b6f-d4b5dafbde71;Administration;0e6a4b64-2c5f-4ef9-8a28-8554aede0b9f;Coaching
+b4f1e321-f69e-4872-a9f1-3264093b1608;Controlling;2fd61bbe-dff8-466f-83ce-f53fc9f7d42c;Human Resources
+0b898601-f259-409d-88ab-f1c676f5dcd2;Cinesoft;2a77b091-73a1-4d3a-9f28-bbef44d76c82;Clothing
+6e6e26ac-c73b-4fdd-8ab2-510b8c5b7044;Help Desk;bb51313d-903e-4ea5-8d1c-c928404c69ee;Communication
+cd985385-6781-4cc8-828b-a13ad735aa99;Client Services;bb51313d-903e-4ea5-8d1c-c928404c69ee;Communication
+37a61afa-b4fd-466d-a2c9-99f098003eb7;Finance;f9a679d3-a799-4c8f-a52e-0099c5169972;Advertising
+c6c18422-1cd7-4a1d-b25a-7161ccc9336a;Credit;2fd61bbe-dff8-466f-83ce-f53fc9f7d42c;Human Resources
+cd985385-6781-4cc8-828b-a13ad735aa99;Client Services;2a77b091-73a1-4d3a-9f28-bbef44d76c82;Clothing
+0b898601-f259-409d-88ab-f1c676f5dcd2;Cinesoft;c7052530-4797-470f-9ece-3baf814213e8;Buying
+0b898601-f259-409d-88ab-f1c676f5dcd2;Cinesoft;bb51313d-903e-4ea5-8d1c-c928404c69ee;Communication
+b4f1e321-f69e-4872-a9f1-3264093b1608;Controlling;0b898601-f259-409d-88ab-f1c676f5dcd2;Cinesoft
+b4f1e321-f69e-4872-a9f1-3264093b1608;Controlling;6e6e26ac-c73b-4fdd-8ab2-510b8c5b7044;Help Desk
+c6c18422-1cd7-4a1d-b25a-7161ccc9336a;Credit;9c4cac85-9a5b-4c67-af30-0cf8095775d1;Data Warehousing
+b4f1e321-f69e-4872-a9f1-3264093b1608;Controlling;cd985385-6781-4cc8-828b-a13ad735aa99;Client Services
+b4f1e321-f69e-4872-a9f1-3264093b1608;Controlling;2a77b091-73a1-4d3a-9f28-bbef44d76c82;Clothing
+2fd61bbe-dff8-466f-83ce-f53fc9f7d42c;Human Resources;0b898601-f259-409d-88ab-f1c676f5dcd2;Cinesoft
+6e6e26ac-c73b-4fdd-8ab2-510b8c5b7044;Help Desk;2a77b091-73a1-4d3a-9f28-bbef44d76c82;Clothing
+2fd61bbe-dff8-466f-83ce-f53fc9f7d42c;Human Resources;6e6e26ac-c73b-4fdd-8ab2-510b8c5b7044;Help Desk
+07b8fd0b-4313-4294-8b6f-d4b5dafbde71;Administration;f9a679d3-a799-4c8f-a52e-0099c5169972;Advertising
+c6c18422-1cd7-4a1d-b25a-7161ccc9336a;Credit;6e6e26ac-c73b-4fdd-8ab2-510b8c5b7044;Help Desk
+c6c18422-1cd7-4a1d-b25a-7161ccc9336a;Credit;cd985385-6781-4cc8-828b-a13ad735aa99;Client Services
+2fd61bbe-dff8-466f-83ce-f53fc9f7d42c;Human Resources;cd985385-6781-4cc8-828b-a13ad735aa99;Client Services
+cd985385-6781-4cc8-828b-a13ad735aa99;Client Services;c7052530-4797-470f-9ece-3baf814213e8;Buying
+b4f1e321-f69e-4872-a9f1-3264093b1608;Controlling;bb51313d-903e-4ea5-8d1c-c928404c69ee;Communication
+2a77b091-73a1-4d3a-9f28-bbef44d76c82;Clothing;c7052530-4797-470f-9ece-3baf814213e8;Buying
+6e6e26ac-c73b-4fdd-8ab2-510b8c5b7044;Help Desk;c7052530-4797-470f-9ece-3baf814213e8;Buying
+2a77b091-73a1-4d3a-9f28-bbef44d76c82;Clothing;9c4cac85-9a5b-4c67-af30-0cf8095775d1;Data Warehousing
+c6c18422-1cd7-4a1d-b25a-7161ccc9336a;Credit;2a77b091-73a1-4d3a-9f28-bbef44d76c82;Clothing
+bb51313d-903e-4ea5-8d1c-c928404c69ee;Communication;f9a679d3-a799-4c8f-a52e-0099c5169972;Advertising
+0e6a4b64-2c5f-4ef9-8a28-8554aede0b9f;Coaching;cd985385-6781-4cc8-828b-a13ad735aa99;Client Services
+c6c18422-1cd7-4a1d-b25a-7161ccc9336a;Credit;07b8fd0b-4313-4294-8b6f-d4b5dafbde71;Administration
+0e6a4b64-2c5f-4ef9-8a28-8554aede0b9f;Coaching;f9a679d3-a799-4c8f-a52e-0099c5169972;Advertising
+37a61afa-b4fd-466d-a2c9-99f098003eb7;Finance;b4f1e321-f69e-4872-a9f1-3264093b1608;Controlling
+37a61afa-b4fd-466d-a2c9-99f098003eb7;Finance;0b898601-f259-409d-88ab-f1c676f5dcd2;Cinesoft
+b4f1e321-f69e-4872-a9f1-3264093b1608;Controlling;0e6a4b64-2c5f-4ef9-8a28-8554aede0b9f;Coaching
+0e6a4b64-2c5f-4ef9-8a28-8554aede0b9f;Coaching;6e6e26ac-c73b-4fdd-8ab2-510b8c5b7044;Help Desk
+0e6a4b64-2c5f-4ef9-8a28-8554aede0b9f;Coaching;0b898601-f259-409d-88ab-f1c676f5dcd2;Cinesoft
+37a61afa-b4fd-466d-a2c9-99f098003eb7;Finance;9c4cac85-9a5b-4c67-af30-0cf8095775d1;Data Warehousing
+37a61afa-b4fd-466d-a2c9-99f098003eb7;Finance;c7052530-4797-470f-9ece-3baf814213e8;Buying
+c6c18422-1cd7-4a1d-b25a-7161ccc9336a;Credit;0e6a4b64-2c5f-4ef9-8a28-8554aede0b9f;Coaching
+07b8fd0b-4313-4294-8b6f-d4b5dafbde71;Administration;c7052530-4797-470f-9ece-3baf814213e8;Buying
+07b8fd0b-4313-4294-8b6f-d4b5dafbde71;Administration;bb51313d-903e-4ea5-8d1c-c928404c69ee;Communication
+b4f1e321-f69e-4872-a9f1-3264093b1608;Controlling;07b8fd0b-4313-4294-8b6f-d4b5dafbde71;Administration
+2fd61bbe-dff8-466f-83ce-f53fc9f7d42c;Human Resources;f9a679d3-a799-4c8f-a52e-0099c5169972;Advertising
+0b898601-f259-409d-88ab-f1c676f5dcd2;Cinesoft;f9a679d3-a799-4c8f-a52e-0099c5169972;Advertising
+2fd61bbe-dff8-466f-83ce-f53fc9f7d42c;Human Resources;07b8fd0b-4313-4294-8b6f-d4b5dafbde71;Administration
+6e6e26ac-c73b-4fdd-8ab2-510b8c5b7044;Help Desk;f9a679d3-a799-4c8f-a52e-0099c5169972;Advertising
+07b8fd0b-4313-4294-8b6f-d4b5dafbde71;Administration;2a77b091-73a1-4d3a-9f28-bbef44d76c82;Clothing

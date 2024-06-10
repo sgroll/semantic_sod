@@ -1,0 +1,11 @@
+;Market;Market Follow-Up;Audit;Risk Controlling;Accounting;Legal;Compliance;Trade;Payment Traffic;Fund Mgt.
+Market;;x;x;x;;x;x;;x;
+Market Follow-Up;x;;x;x;;;x;x;;x
+Audit;x;x;;x;x;x;x;x;x;x
+Risk Controlling;x;x;x;;;;x;x;x;x
+Accounting;;;x;;;;x;x;;
+Legal;x;;x;;;;x;x;;x
+Compliance;x;x;x;x;x;x;;x;x;x
+Trade;;x;x;x;x;x;x;;x;
+Payment Traffic;x;;x;x;;;x;x;;
+Fund Mgt.;;x;x;x;;x;x;;;

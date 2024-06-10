@@ -1,0 +1,21 @@
+Analysed roles: 99
+Analysed permissions: 710
+Analysed assignments: 670
+Analysed roles with sod class: 15
+Analysed permissions with sod class: 42
+Analysed permissions without role: 605
+SoD classes of roles that need to be changed: 2
+SoD classes of roles that do not need to be changed: 97
+Homogeneity violations: 1
+Created MERs: 63
+
+ ***** Inhomogeneous Roles ***** 
+Role: External_Support, 089951da-4e39-44c9-8b3e-e4675e814bcb
+R_Partner_List -> Risk Controlling
+Mailing_Group -> Fund Mgt.
+
+
+
+ ***** SoD Class Changes ***** 
+SoD Class of role Leadership should be changed from Compliance to Neutral
+SoD Class of role External_Support should be changed from Risk Controlling to Violation
